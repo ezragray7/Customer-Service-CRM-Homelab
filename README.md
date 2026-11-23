@@ -45,12 +45,16 @@ All exercises are performed using free, browser-based tools whenever possible. N
 
 | Lab | Description | Status |
 |---|---|---|
-| Lab 01 | CRM Workspace Setup | In Progress |
-| Lab 02 | Customer Record Management | Planned |
-| Lab 03 | Customer Inquiry Handling | Planned |
-| Lab 04 | Customer Communication | Planned |
-| Lab 05 | Complaints and Escalations | Planned |
-| Lab 06 | Customer Service Reporting | Planned |
+| Lab 01 | CRM Workspace Setup | Complete |
+| Lab 02 | Customer Record Management | Complete |
+| Lab 03 | Customer Inquiry Handling | Complete |
+| Lab 04 | Customer Support Workflow | Complete |
+| Lab 05 | Customer Feedback Management | Complete |
+| Lab 06 | Customer Support Reporting & Performance Metrics | Documentation Pending |
+| Lab 07 | Customer Follow-Up & Retention | Complete |
+| Lab 08 | CRM Automation & Workflow Management | Complete |
+| Lab 09 | Customer Segmentation & Account Management | Complete |
+| Lab 10 | Complete Customer Support Scenario | Complete |
 
 ## Repository Structure
 
@@ -136,6 +140,5 @@ All activities and accomplishments documented in this repository reflect tasks p
 
 ## Project Status
 
-**Status:** In Progress
+**Status:** Completed
 
-Labs will be documented and marked complete as the corresponding activities are performed and verified.
