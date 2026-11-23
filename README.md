@@ -50,7 +50,7 @@ All exercises are performed using free, browser-based tools whenever possible. N
 | Lab 03 | Customer Inquiry Handling | Complete |
 | Lab 04 | Customer Support Workflow | Complete |
 | Lab 05 | Customer Feedback Management | Complete |
-| Lab 06 | Customer Support Reporting & Performance Metrics | Documentation Pending |
+| Lab 06 | Customer Support Reporting & Performance Metrics | Complete |
 | Lab 07 | Customer Follow-Up & Retention | Complete |
 | Lab 08 | CRM Automation & Workflow Management | Complete |
 | Lab 09 | Customer Segmentation & Account Management | Complete |
